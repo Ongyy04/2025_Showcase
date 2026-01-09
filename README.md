@@ -39,4 +39,4 @@ Cash Loop는 끊어진 소비 흐름을 다시 잇습니다.
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
 ## 🗣 팀원 소개
-<table> <tbody> <tr> <td align="center"> < width="120px;" alt="오은서"/><br /> <b>오은서</b><br />  </td> <td align="center"> < width="120px;" alt="김현정"/><br /> <b>김현정</b><br /></td> <td align="center"> < width="120px;" alt="김지안"/><br /> <b>김지안</b><br/> </td> </tr> </tbody> </table>
+<table> <tbody> <tr> <td align="center">  <b>오은서</b><br />  </td> <td align="center"> <b>김현정</b><br /></td> <td align="center">  <b>김지안</b><br/> </td> </tr> </tbody> </table>
