@@ -1,9 +1,9 @@
-## 💸 잠들어 있는 가치를 연결하다, 기프티콘 잔액 순환 플랫폼 Cash Loop
+## 잠들어 있는 가치를 연결하다, 기프티콘 잔액 순환 플랫폼 Cash Loop
 
 #### 2025 Showcase 데이터사이언스 부문 우수상
 #### 개발기간 : 2025.07-2025.11
 
-## 👋🏻 프로젝트 소개
+## 프로젝트 소개
 기프티콘을 사용하고 난 뒤 남은 몇 백 원의 잔액,
 한 번쯤은 “쓸 데도 없어서 그냥 둔” 경험이 있지 않으신가요?
 
@@ -18,7 +18,7 @@ Cash Loop는 이러한 문제에서 출발해,
 잔액이 사라지지 않고 다시 돌아오는 경험,
 Cash Loop는 끊어진 소비 흐름을 다시 잇습니다.
 
-## ✅ 서비스 소개
+## 서비스 소개
 
 <img width="5334" height="3000" alt="피피티 모음 (1)-01" src="https://github.com/user-attachments/assets/f37a67d2-9b03-42bb-b124-cf837bb20cf0" />
 <img width="5334" height="3000" alt="피피티 모음 (1)-02" src="https://github.com/user-attachments/assets/a7e0e950-342c-48e2-ba04-6007c1223cfa" />
