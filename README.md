@@ -39,4 +39,40 @@ Cash Loop는 끊어진 소비 흐름을 다시 잇습니다.
 <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 
 ## 🗣 팀원 소개
-<table> <tbody> <tr> <td align="center">  <b>오은서</b><br />  </td> <td align="center"> <b>김현정</b><br /></td> <td align="center">  <b>김지안</b><br/> </td> </tr> </tbody> </table>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <b>오은서</b><br />
+        Team Lead / Flutter Developer
+      </td>
+      <td align="center">
+        <b>김현정</b><br />
+        Flutter Developer
+      </td>
+      <td align="center">
+        <b>김지안</b><br />
+        Flutter Developer
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        앱 초기 구조 설계<br />
+        Hive 기반 사용자·세션 데이터 관리<br />
+        로그인·회원가입 및 친구/사용자 관련 기능 구현
+      </td>
+      <td align="center">
+        구매내역·내정보·친구 관련 기능 구현<br />
+        포인트 적립/전환 및 결제 데이터 연동<br />
+        Hive 기반 데이터 통합 및 기능 고도화
+      </td>
+      <td align="center">
+        기프티콘 데이터 모델·로컬 저장 및 카탈로그 연동<br />
+        상품 탐색·상세·결제 핵심 구매 플로우 구현<br />
+        잔액→포인트 전환 및 결제 상태 로직 구현<br />
+        화면 간 데이터 전달 및 라우팅 구현
+      </td>
+    </tr>
+  </tbody>
+</table>
